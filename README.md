@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Laravel
 - 🌱 I’m currently learning Laravel framework for php
-- 📫 How to reach me: instagram:M.mahdi_bsr
+- 📫 How to reach me on instagram => M.mahdi_bsr
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

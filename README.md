@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm currently working on Laravel
+🔭 I’m currently working on Laravel
 
 
 ## 🌐Socials

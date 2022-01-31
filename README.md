@@ -1,6 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on Laravel
-
+* 🔭 I’m currently working on Restaurant Laravel
+* 🌱 I'm currently learning Laravel
+* 💬 Ask me about Laravel
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/M.mahdi_bsr) 

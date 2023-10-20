@@ -4,7 +4,7 @@
 * 💬 Ask me about Laravel
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/M.mahdi_bsr) 
+[![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/mmahdi_bsr) 
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231572B6.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadmahdi-baseri-5b8aa5296) 
 
 # 💻Tech Stack

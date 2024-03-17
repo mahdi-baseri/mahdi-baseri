@@ -1,5 +1,7 @@
 # 💫About Me :
-* 🔭 I’m currently working on Restaurant Laravel
+* I’m MohamadMahdi Baseri
+* Computer student of Amirkabir University
+* 🔭 I’m currently working on Java
 * 🌱 I'm currently learning Laravel
 * 💬 Ask me about Laravel
 
